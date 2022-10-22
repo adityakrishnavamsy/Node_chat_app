@@ -4,5 +4,5 @@ Real-time chat uses Web-based apps, which permit communication that is usually a
 
 Concepts and tech used : VS code , node.js , express.js , websockets , dom manipulation , java script , styling
 
-![image](https://user-images.githubusercontent.com/46970931/197346172-d87cca63-a7dd-44c1-93ce-ad83ce6d6b89.png)
-![image](https://user-images.githubusercontent.com/46970931/197346179-47552787-ffaa-47f2-b3a0-06da775a7833.png)
+![image](https://user-images.githubusercontent.com/46970931/197346827-d90cdf54-f19a-405e-bdd6-7f71ce97059b.png)
+![image](https://user-images.githubusercontent.com/46970931/197346838-1d16555b-2a00-477a-bd01-7c631271caae.png)
